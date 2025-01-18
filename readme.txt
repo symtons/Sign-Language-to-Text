@@ -1,0 +1,1 @@
+Use the train.py to train the datasets and use the main.py to run the app
